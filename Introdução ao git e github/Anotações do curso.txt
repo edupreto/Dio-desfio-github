@@ -1,0 +1,5 @@
+Anotações do curso
+1- git instalado
+2-criado repositorio
+3-clonado repositorio
+4-feito primeiro commit
